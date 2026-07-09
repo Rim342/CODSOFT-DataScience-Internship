@@ -8,7 +8,7 @@ Welcome to my **CODSOFT Data Science Internship** repository. This repository co
 
 - **Internship Domain:** Data Science
 - **Organization:** CODSOFT
-- **Intern:** Prince Verma
+- **Intern:** Rimjhim Gautam
 - **Language:** Python
 
 ---
@@ -132,7 +132,7 @@ CODSOFT-DataScience-Internship
 
 # 📬 Contact
 
-**Prince Verma**
+**Rimjhim Gautam**
 
 GitHub: https://github.com/Rim342
 
